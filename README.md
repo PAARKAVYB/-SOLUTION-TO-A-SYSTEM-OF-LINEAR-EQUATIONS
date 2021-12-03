@@ -27,6 +27,6 @@ print(value)
 
 ## Output:
 ![OUTPUT](./linear equation.png)
-## Result: 
+## Result:
 Thus the solutions for the linear equations are successfully solved using python program
 
